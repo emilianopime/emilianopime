@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Game-engies**
+- 🌱 I’m currently learning **Game-engines**
 
 - 🧑‍🎓 I’m an Student at **UACH**
 
