@@ -25,7 +25,7 @@ SQL and database design — I’m passionate about both!
 I love illustrating.
 
 
-**📫 Contact **     
+**📫 Contact**     
 
 pmemiliano108@gmail.com                              
 
