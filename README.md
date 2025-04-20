@@ -1,23 +1,39 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi 👋, I'm Emiliano Piñón</h1>
-<h3 align="center">Computer Sciencie Student | Understanding technologies.</h3>
+<p align="center">
+  <img src="github-header-image.png" alt="Header" width="100%" />
+</p>
+
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-🌱 I’m currently learning:
-- html5
-  
 
-- 🧑‍🎓 I’m an Student at **UACH**
+**🎓 Education**
 
-- 💬 Ask me about **SQL**
+I’m a Computer Science student at UACH.
 
-- 📫 How to reach me **pmemiliano108@gmail.com**
-  
-- ⚡ Fun fact **Call me as Blesky**
+**💬 Ask Me About**
+
+SQL and database design — I’m passionate about both!
+
+**🎨 Hobbies**
+
+I love illustrating.
+
+
+**📫 Contact **     
+
+pmemiliano108@gmail.com                              
+
+**⚡ Fun Fact**
+
+You can call me Blesky
+
+
 
 </td>
 <td width="70%" align="center">
@@ -31,11 +47,27 @@
 </tr>
 </table>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="center">Technologies</h3>
-<p align="center">
+<h3 align=>Technologies</h3>
+<p align=>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,html,cs,python" />
   </a>
 </p>
+
+<pre>
+⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢋⣩⣉⣿⣿⡝
+⣿⣿⣿⠀⣿⣶⣕⣈⠹⠿⠿⠿⠿⠟⠛⣛⢋⣰⠣⣿⣿⠀⣿⣿
+⣿⣿⣿⡀⣿⣿⣿⣧⢻⣿⣶⣷⣿⣿⣿⣿⣿⣿⠿⠶⡝⠀⣿⣿
+⣿⣿⣿⣷⠘⣿⣿⣿⢏⣿⣿⣋⣀⣈⣻⣿⣿⣷⣤⣤⣿⡐⢿⣿
+⣿⣿⣿⣿⣆⢩⣝⣫⣾⣿⣿⣿⣿⡟⠿⠿⠦⠀⠸⠿⣻⣿⡄⢻
+⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⠇⣼
+⣿⣿⣿⣿⣿⣿⡄⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣰⡝
+⣿⣿⣿⣿⣿⣿⠇⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢀⣿⡝
+⣿⣿⣿⣿⣿⠏⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿
+⣿⣿⣿⣿⠟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿
+⣿⣿⣿⠋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿⣿
+⣿⣿⠋⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿
+⣿⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡯⢸⣿
+</pre>
 
 
