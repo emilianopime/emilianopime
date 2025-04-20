@@ -7,7 +7,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Game-engines**
+🌱 I’m currently learning:
+- html5
+  
 
 - 🧑‍🎓 I’m an Student at **UACH**
 
@@ -18,14 +20,22 @@
 - ⚡ Fun fact **Call me as Blesky**
 
 </td>
-<td width="50%" align="center">
+<td width="70%" align="center">
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/92723206593936301/1C9221F9EF49F7F80E8598A227E28051863ECDB8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="500"/>
+</p>
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
   
   </td>
 </tr>
 </table>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 align="center">Technologies</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,html,cs,python" />
+  </a>
+</p>
 
----
 
